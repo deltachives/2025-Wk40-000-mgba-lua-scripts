@@ -1,3 +1,16 @@
-
 # vim
 *.sw*
+
+# Rust
+/target
+
+# ROM Related
+*.gba
+*.elf
+*.sav
+saves/
+
+# Archives
+*.tar.gz
+
+bizhawk/
